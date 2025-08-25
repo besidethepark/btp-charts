@@ -1,8 +1,17 @@
 # Changelog
 
-## 25.1.1 (2025-08-19)
+## 25.2.0 (2025-08-21)
 
-* [bitnami/keycloak] Fix trailing dash in Config CLI Job ([#35784](https://github.com/bitnami/charts/pull/35784))
+* [bitnami/keycloak] Add externalDatabase.extraParams for custom JDBC connection parameters ([#35770](https://github.com/bitnami/charts/pull/35770))
+
+## <small>25.1.2 (2025-08-20)</small>
+
+* [bitnami/keycloak] :zap: :arrow_up: Update dependency references (#36151) ([be87b21](https://github.com/bitnami/charts/commit/be87b21456910bc3a0c8731be470b48fb5ed32d3)), closes [#36151](https://github.com/bitnami/charts/issues/36151)
+
+## <small>25.1.1 (2025-08-19)</small>
+
+* [bitnami/keycloak] docs: remove reference to deprecated parameter on README (#36095) ([88de5cf](https://github.com/bitnami/charts/commit/88de5cfe0cda1f49d53b1ba8cda84b0baada6676)), closes [#36095](https://github.com/bitnami/charts/issues/36095)
+* [bitnami/keycloak] Fix trailing dash in Config CLI Job (#35784) ([aff4631](https://github.com/bitnami/charts/commit/aff46317d0a8a86a4e5eb1d91bc384ff4ea2c42b)), closes [#35784](https://github.com/bitnami/charts/issues/35784)
 
 ## 25.1.0 (2025-08-15)
 
